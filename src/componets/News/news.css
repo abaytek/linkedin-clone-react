@@ -1,0 +1,25 @@
+.news {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    margin-bottom: 15px;
+}
+
+.followers {
+    margin-left: 5px;
+}
+
+.followers>h3 {
+    font-size: 14px;
+    font-size: bold;
+}
+
+.followers>p {
+    color: gray;
+    font-size: 13px;
+}
+
+.icon {
+    font-size: 10px;
+    color: gray;
+}

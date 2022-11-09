@@ -1,0 +1,14 @@
+.post__reaction {
+    color: gray;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    font-size: 13px;
+    cursor: pointer;
+    padding: 5px 10px;
+}
+
+.post__reaction:hover {
+    background-color: whitesmoke;
+    border-radius: 20px;
+}

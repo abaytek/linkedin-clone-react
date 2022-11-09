@@ -1,0 +1,4 @@
+- integrating firebase as a backend server
+- fetching post 
+- creating post 
+- message functionlality

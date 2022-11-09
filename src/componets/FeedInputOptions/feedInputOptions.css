@@ -1,0 +1,18 @@
+.inputOptions {
+    margin-top: 15px;
+    display: flex;
+    gap: 5px;
+    align-items: center;
+    color: gray;
+    cursor: pointer;
+    padding: 5px 10px;
+}
+
+.inputOptions:hover {
+    background-color: whitesmoke;
+    border-radius: 20px;
+}
+
+.inputOptions>p {
+    font-size: 13px;
+}
