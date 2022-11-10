@@ -42,3 +42,13 @@
   display: flex;
   align-items: center;
 }
+
+@media (max-width: 768px) {
+  .header__search>input {
+    display: none;
+  }
+
+  .header__icon {
+    display: none;
+  }
+}
